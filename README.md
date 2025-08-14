@@ -1,32 +1,55 @@
 Portfolio of PCB Design Projects
-Welcome to my portfolio repository, where I showcase my expertise in Printed Circuit Board (PCB) Design and Electronics Engineering . This repository highlights a collection of my projects, demonstrating my ability to design efficient, reliable, and innovative electronic circuits for various applications.
 
-What You’ll Find Here:
-Professional PCB Designs : Explore schematic designs, board layouts, and routing techniques optimized for performance and manufacturability.
-Diverse Projects : From simple prototypes to complex multi-layer boards, I cover a wide range of industries, including IoT, robotics, telecommunications, and consumer electronics.
-Tools & Technologies : My work leverages industry-standard tools such as Altium Designer , KiCAD , Eagle , and OrCAD , along with simulation and analysis software.
-Open Source Contributions : Some of the projects are open-source, encouraging collaboration and knowledge sharing within the engineering community.
+Welcome to my portfolio repository, where I showcase my expertise in Printed Circuit Board (PCB) design, FPGA systems, and Electronics Engineering. This repository features a curated selection of my projects, demonstrating my ability to design high-performance, reliable, and innovative electronic systems for a wide range of applications.
+
+What You’ll Find Here
+
+Professional PCB Designs: Explore detailed schematics, multi-layer board layouts, and advanced routing optimized for signal integrity, EMC compliance, and manufacturability.
+
+Diverse Projects: From high-speed FPGA boards, IoT devices, and embedded systems to high-power converters and radar electronics, covering both prototypes and complex multi-layer industrial designs.
+
+Tools & Technologies: My designs leverage Altium Designer, KiCAD, OrCAD, Eagle, and simulation/analysis software to ensure precision and performance.
+
+Documentation: Each project includes readme files, schematics, and PCB images. For detailed study, schematics and PCB layouts are provided in PDF format.
+
 Why This Repository?
-This portfolio is designed to:
 
-Provide a comprehensive overview of my skills in PCB design , signal integrity analysis , and EMC compliance .
-Demonstrate my problem-solving abilities in real-world engineering challenges.
-Serve as a resource for engineers, hobbyists, and companies seeking inspiration or collaboration opportunities.
-Key Highlights:
-Remote Collaboration : Experienced in working remotely with cross-functional teams, ensuring seamless communication and project delivery.
-Custom Solutions : Tailored designs to meet specific client requirements, balancing cost, performance, and time-to-market.
-Continuous Learning : Always exploring new technologies, methodologies, and trends in electronics design to stay at the forefront of innovation.
+This portfolio is intended to:
+
+Highlight my expertise in PCB design, high-speed circuits, signal integrity, and EMC considerations.
+
+Showcase my ability to solve complex engineering challenges in real-world applications.
+
+Serve as a resource and inspiration for engineers, students, and collaborators interested in electronics design.
+
+Key Highlights
+
+Remote Collaboration: Experienced in working with cross-functional and international teams, ensuring seamless project delivery.
+
+Custom Solutions: Designs tailored to client-specific requirements, balancing performance, cost, and time-to-market.
+
+Continuous Learning: Staying at the forefront of electronics innovation by exploring new technologies, FPGA designs, IoT systems, and high-speed PCBs.
+
 Let’s Connect!
-If you’re interested in collaborating, hiring, or just want to discuss electronics design, feel free to reach out:
 
-LinkedIn : Your LinkedIn Profile
-Email : your.email@example.com
-I’m passionate about turning ideas into functional hardware and contributing to cutting-edge projects. Let’s build something amazing together!
+If you’re interested in collaboration, hiring, or discussing electronics design, feel free to reach out:
+
+LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/amirhosein-eslahchi/)
+
+Email: aeslahchi@live.com
+
+Phone:+447464358258
+
+I am passionate about turning ideas into functional hardware and contributing to cutting-edge electronics projects. Let’s build something amazing together!
 
 How to Use This Repository
-Browse through the folders to explore individual projects.
-Check the README files for detailed documentation, including design goals, schematics, and testing results.
-Feel free to fork, clone, or contribute to any open-source project.
-If you have questions or need further clarification, don’t hesitate to contact me.
-Note
-All content in this repository is intended for educational and professional purposes. Please respect the licensing terms mentioned in each project folder.
+
+Browse folders to explore individual projects.
+
+Check README files for detailed documentation, including design goals, schematics, and testing results.
+
+Feel free to fork, clone, or contribute to open-source projects.
+
+For any questions or clarifications, don’t hesitate to contact me.
+
+Note: All content is intended for educational and professional purposes. Please respect the licensing terms mentioned in each project folder.
